@@ -5,7 +5,7 @@ I'm a 21 years old ~~shrimp~~ Spanish human being! For the most part, I enjoy re
 
 Whilst I do have some knowledge regarding more multi-platform languages such as Java, I'm specialising in web-related technologies; do **not** be surprised 99% of my code might be pure TypeScript! 📦
 
-> "Comment your code, for those who come after" --- Someone
+> "Comment your code, for those who come after" - Someone
 
 <img src="./shouldveusedtsc.png" alt="Footer Picture" title="You should use TypeScript in your projects..." style="width: 100%; height: auto;" />
 
